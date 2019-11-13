@@ -1,0 +1,5 @@
+<resources>
+	<string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">x1mZ9kP66RSYTppZGhIRshZfLcUi7a004a4f-7ca3-422d-a1bf-df09fc208846</string>
+    <string name="app_name">创新头条</string>
+    <string name="scheme_name">ttmobile</string>
+</resources>
