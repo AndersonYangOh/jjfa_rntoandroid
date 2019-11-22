@@ -1,4 +1,4 @@
-# 基于reactnative的安卓集成系统
+# 基于reactnative的分享系统
 ## 一、安装依赖
 * 必须安装的依赖有：Node、React Native 命令行工具、Python2 以及 JDK 和 Android Studio。
 * 虽然你可以使用任何编辑器来开发应用（编写 js 代码），但你仍然必须安装 Android Studio 来获得编译 Android 应用所需的工具和环境。
